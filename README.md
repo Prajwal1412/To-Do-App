@@ -19,14 +19,6 @@ A simple and stylish To-Do List application built with **React**, **Vite**, and 
 
 ---
 
-## 📸 Screenshot
-
-> ![Screenshot Placeholder](https://via.placeholder.com/600x300.png?text=To+Do+List+App)
-
-(You can replace the image with your own screenshot.)
-
----
-
 ## 🚀 Getting Started
 
 ### Prerequisites
