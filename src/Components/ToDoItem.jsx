@@ -2,10 +2,6 @@ import { MdEdit } from "react-icons/md";
 import { MdDelete } from "react-icons/md";
 
 function ToDoItem(props) {
-  // If you want to manage completion in parent, use props.completed and props.toggleComplete
-  // If you want local completion, use useState (not recommended for a todo app)
-  // Here, we assume completion is managed in parent and passed as props.completed
-
   return (
     <div className="flex items-center justify-center m-2 sm:m-4">
       <div
